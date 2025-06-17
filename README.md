@@ -1,5 +1,5 @@
-# Bloxd Texture Packs
-A repository containing texture packs for bloxd.io. Bellow you will find instructions on how to create your own custom texture pack.
+# Bloxd Minecraft Texture Pack
+We are trying to recreate Minecraft in bloxd.io by using original or close imitations block textures, models, css, and art from Minecraft. Items that only exist in bloxd.io can have art created in Minecraft Style
 
 ## Tools to help make Texture Packs
 - https://www.piskelapp.com/
@@ -26,7 +26,6 @@ A texture pack is a folder that has the following structure:
         └── <cssFileName>.css
 ```
 
-To see a very simple example of a texture pack, see the `exampleTexturePack` folder.
 
 ### Textures
 You can overwrite a texture by adding png image to the `textures` folder that has the same name as one of the available textures names.
