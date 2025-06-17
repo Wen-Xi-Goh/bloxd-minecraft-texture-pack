@@ -1,5 +1,7 @@
 # Bloxd Minecraft Texture Pack
-We are trying to recreate Minecraft in bloxd.io by using original or close imitations block textures, models, css, and art from Minecraft. Items that only exist in bloxd.io can have art created in Minecraft Style
+We are trying to recreate Minecraft in bloxd.io by using original or close imitations block textures, models, css, and art from Minecraft. Items that only exist in bloxd.io can have art created in Minecraft style.
+
+This repository will be updated regularly when bloxd publishes new updates that affect textures. 
 
 ## Tools to help make Texture Packs
 - https://www.piskelapp.com/
