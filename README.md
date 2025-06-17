@@ -3,6 +3,9 @@ We are trying to recreate Minecraft in bloxd.io by using original or close imita
 
 This repository will be updated regularly when bloxd publishes new updates that affect textures. 
 
+# Submitting Pull Requests
+Please fork this repository and submit a pull request once you are done editing your copy. I will review the changes and if they are acceptable, I will merge it with the main repository.
+
 ## Tools to help make Texture Packs
 - https://www.piskelapp.com/
 - https://nimadez.github.io/voxel-builder/
